@@ -1,1 +1,0 @@
-supabase password : Kq3vBiU4ZmzRRtrl
